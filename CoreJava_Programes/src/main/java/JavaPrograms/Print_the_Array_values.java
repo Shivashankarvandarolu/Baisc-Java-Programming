@@ -20,7 +20,8 @@ public class Print_the_Array_values {
 			// finding the length
 			int size = a.length;
 			System.out.println("Array size is = " + size);
-			
+
+		// Applying for loop
 			for(int i=0 ; i<size ; i++)
 			{
 				System.out.println("a[" + i + "]" + "=" + a[i]);
