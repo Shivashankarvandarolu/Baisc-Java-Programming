@@ -6,6 +6,7 @@ public class Reverseint {
 
 	public static void main(String[] args) {
 		
+		// Scanner class helps to taking the input from the console
 		Scanner obj = new Scanner(System.in);
 		System.out.println("Enter value of a");
 		
