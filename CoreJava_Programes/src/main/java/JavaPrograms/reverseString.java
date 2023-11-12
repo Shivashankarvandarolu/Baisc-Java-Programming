@@ -11,7 +11,7 @@ public class reverseString {
 		System.out.println("Enter the String value");
 		
 		String a = obj.nextLine();
-		
+		// stiring rev
 		String rev = "";
 		
 		int len_a = a.length();
