@@ -7,8 +7,12 @@ public class Ascending_Descending_Order {
 	
 	public static void main(String[] args) {
 		
+		// To store multiple values inside an collection we are using ArrayList
+		// Creating ArrayList 
 		ArrayList num = new ArrayList();
 		
+		// To add multiple values inside an List
+		// List can store duplicate values
 		num.add(5);
 		num.add(3);
 		num.add(2);
