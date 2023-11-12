@@ -4,6 +4,7 @@ public class Print_the_minvalue_with_index_array {
 	
 	public static void main(String[] args) {
 		
+		// Initilizing array
 	int[] a = new int[] {4,6,2,8,9,1,4,7,9,2,12,0,2};
 	
 	int min = a[0];
