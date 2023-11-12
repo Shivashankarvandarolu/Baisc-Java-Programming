@@ -4,7 +4,7 @@ public class Print_the_Array_values {
 	
 	public static void main(String[] args) {
 		
-	
+		// Array initilization
 		int[] a = new int[9];
 	
 			a[0] = 2 ; 
@@ -16,7 +16,8 @@ public class Print_the_Array_values {
 			a[6] = 12 ;
 			a[7] = 32 ;
 			a[8] = 7 ;
-			
+
+			// finding the length
 			int size = a.length;
 			System.out.println("Array size is = " + size);
 			
