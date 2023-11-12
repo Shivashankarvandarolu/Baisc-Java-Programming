@@ -6,7 +6,7 @@ public class reverseString {
 	
 	public static void main(String[] args) {
 		
-		// Taking inputs from the console
+		// with the help of Scanner Class we can give input from the console
 		Scanner obj = new Scanner(System.in);
 		System.out.println("Enter the String value");
 		
